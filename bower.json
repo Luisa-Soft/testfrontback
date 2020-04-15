@@ -1,0 +1,21 @@
+{
+  "name": "testfrontback",
+  "description": "Laboral test",
+  "main": "index.html",
+  "keywords": [
+    "test"
+  ],
+  "authors": [
+    "Luisa Fernanda Vasquez Betancur"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
